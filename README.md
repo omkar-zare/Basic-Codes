@@ -1,2 +1,2 @@
 # Codes
-basic c++ codes
+basic c++ programs
